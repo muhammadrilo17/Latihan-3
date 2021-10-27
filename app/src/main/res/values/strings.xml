@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Latihan 3</string>
+    <string name="list">List</string>
+    <string name="grid_view">Grid View</string>
+    <string name="card_view">Card View</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+</resources>
